@@ -1,13 +1,13 @@
 ### HYAAA! ⚔️ 👋
 
-I'm Gabriele Pappalardo, a Master Computer Science student at University of Pisa!
+I'm Gabriele Pappalardo, a Master Computer Science student at University of Pisa + TUM!
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabryon99&show_icons=true&theme=radical" alt="gabryon99's GitHub Stats" align='right'/>
 
 <ul>
     <li>🎓 I got my bachelor degree at UniPi</li>
     <li>👨‍💻 I love programming languages and their implementation</li>
-    <li>💭 I'm vey curious about softwares' implementation and I try to discover new thing always!</li>
+    <li>💭 I'm very curious about softwares' implementation and I try to discover new thing always!</li>
     <li>👾 I have a strong passion for videogames and home consoles</li>
 </ul>
 
