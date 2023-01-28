@@ -1,14 +1,17 @@
-### HYAAA! ⚔️ 👋
+<div>
+    <img width="16" align="left" src='https://66.media.tumblr.com/e35cda5ad297e1a0bbcb83257f91ccf1/tumblr_ml5gbqTWeO1rfjowdo1_500.gif' />
+    <h3>&nbsp; HYAAA! ⚔️ 👋</h3>
+</div>
 
-I'm Gabriele Pappalardo, a Master Computer Science student at University of Pisa + TUM!
+I'm **Gabriele Pappalardo**, a Master Computer Science student at University of Pisa + TUM!
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabryon99&show_icons=true&theme=radical" alt="gabryon99's GitHub Stats" align='right'/>
 
 <ul>
-    <li>🎓 I got my bachelor degree at UniPi</li>
-    <li>👨‍💻 I love programming languages and their implementation</li>
-    <li>💭 I'm very curious about softwares' implementation and I try to discover new thing always!</li>
-    <li>👾 I have a strong passion for videogames and home consoles</li>
+    <li>🎓 I got my bachelor degree at UniPi.</li>
+    <li>👨‍💻 I love programming languages and their implementation.</li>
+    <li>💭 I'm curious about softwares' implementation and I love discovering new things!</li>
+    <li>👾 I have a strong passion for videogames and home consoles (especially Nintendo ones).</li>
 </ul>
 
 #### Skills
@@ -50,7 +53,3 @@ You can contact me in several ways! My principal e-mail address is: <a href="mai
     <img height=24" src="https://cdn0.iconfinder.com/data/icons/user-interface-2063/24/UI_Essential_icon_expanded-16-128.png"/>
 </a>
 </span>
-
-
-
-
