@@ -3,15 +3,15 @@
     <h3>&nbsp; HYAAA! ⚔️ 👋</h3>
 </div>
 
-I'm **Gabriele Pappalardo**, a Software Developer @ <a href="https://jetbrains.com">JetBrains</a>
+I'm **Gabriele Pappalardo**, Software Developer @ <a href="https://jetbrains.com">JetBrains</a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabryon99&show_icons=true&theme=radical" alt="gabryon99's GitHub Stats" align='right'/>
 
 <ul>
-    <li>🎓 I got my bachelor and master degree at University of Pisa.</li>
-    <li>👨‍💻 I love programming languages and their implementation.</li>
-    <li>💭 I'm curious about softwares' implementation and I love discovering new things!</li>
-    <li>👾 I have a strong passion for videogames and home consoles (especially Nintendo ones).</li>
+    <li>🎓 MSc in Computer Science @ University of Pisa</li>
+    <li>👨‍💻 Programming languages and their implementations fascinate me</li>
+    <li>💭 Very curious on how things work under the hood!</li>
+    <li>👾 Strong passion for videogames and home consoles (especially Nintendo :D)</li>
 </ul>
 
 #### Skills
@@ -25,7 +25,7 @@ I'm **Gabriele Pappalardo**, a Software Developer @ <a href="https://jetbrains.c
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' height='24'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' height='24'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg' height='24'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg' height='24'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg' height='24'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='24'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' height='24'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' height='24'>
