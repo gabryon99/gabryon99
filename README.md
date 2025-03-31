@@ -3,7 +3,7 @@
     <h3>&nbsp; HYAAA! ⚔️ 👋</h3>
 </div>
 
-I'm **Gabriele Pappalardo**, Software Developer @ <a href="https://jetbrains.com">JetBrains</a>
+I'm **Gabriele Pappalardo**, Software Engineer @ <a href="https://jetbrains.com">JetBrains</a> (Kotlin Multiplatform Tooling)
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabryon99&show_icons=true&theme=radical" alt="gabryon99's GitHub Stats" align='right'/>
 
