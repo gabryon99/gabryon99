@@ -24,6 +24,7 @@ I'm **Gabriele Pappalardo**, **Software Engineer** @ <a href="https://jetbrains.
 <td><img src='https://llvm.org/img/DragonMedium.png' height='24' style='display:inline-block;'><img src='https://dashboard.snapcraft.io/site_media/appmedia/2018/05/icon_QyS3RIm.png' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg' height='24' style='display:inline-block;'></td>
 </tr>
 </table>
+
 #### Contacts
 
 You can contact me in several ways! My principal e-mail address is: <a href="mailto:gabriele_pappalardo@outlook.com">gabriele_pappalardo@outlook.com</a>.
