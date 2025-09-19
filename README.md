@@ -3,7 +3,7 @@
     <h3>&nbsp; HYAAA! ⚔️ 👋</h3>
 </div>
 
-I'm **Gabriele Pappalardo**, Software Engineer @ <a href="https://jetbrains.com">JetBrains</a> (Kotlin Multiplatform Tooling)
+I'm **Gabriele Pappalardo**, **Software Engineer** @ <a href="https://jetbrains.com">JetBrains</a> (Kotlin Multiplatform Tooling)
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabryon99&show_icons=true&theme=radical" alt="gabryon99's GitHub Stats" align='right'/>
 
@@ -14,33 +14,16 @@ I'm **Gabriele Pappalardo**, Software Engineer @ <a href="https://jetbrains.com"
     <li>👾 Strong passion for videogames and home consoles (especially Nintendo :D)</li>
 </ul>
 
-#### Skills
-
-<ul>
-    <li>
-        <b>Programming</b>
-        <br>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' height='24'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' height='24'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' height='24'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' height='24'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg' height='24'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg' height='24'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='24'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' height='24'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' height='24'>
-    </li>
-    <li>
-        <b>Frameworks/Libraries/Toolchains</b>
-        <br>
-        <img src='https://llvm.org/img/DragonMedium.png' height='24'>
-        <img src='https://dashboard.snapcraft.io/site_media/appmedia/2018/05/icon_QyS3RIm.png' height='24'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg' height='24'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' height='24'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg' height='24'>
-    </li>
-</ul>
-
+<table>
+<tr>
+<td><b>Programming</b></td>
+<td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' height='24' style='display:inline-block;'></td>
+</tr>
+<tr>
+<td><b>Frameworks/Libraries/Toolchains</b></td>
+<td><img src='https://llvm.org/img/DragonMedium.png' height='24' style='display:inline-block;'><img src='https://dashboard.snapcraft.io/site_media/appmedia/2018/05/icon_QyS3RIm.png' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' height='24' style='display:inline-block;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg' height='24' style='display:inline-block;'></td>
+</tr>
+</table>
 #### Contacts
 
 You can contact me in several ways! My principal e-mail address is: <a href="mailto:gabriele_pappalardo@outlook.com">gabriele_pappalardo@outlook.com</a>.
