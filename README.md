@@ -27,7 +27,7 @@ I'm **Gabriele Pappalardo**, **Software Engineer** @ <a href="https://jetbrains.
 
 #### Contacts
 
-You can contact me in several ways! My principal e-mail address is: <a href="mailto:gabriele_pappalardo@outlook.com">gabriele_pappalardo@outlook.com</a>.
+You can contact me in several ways! My principal e-mail address is: <i>gabriele_pappalardo [at] outlook [dot] com</i>.
 
 <span>
 <a href="https://www.linkedin.com/in/gabryon99/">
